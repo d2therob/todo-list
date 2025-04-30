@@ -17,9 +17,8 @@ It also handles edge cases like:
 # How to Run
 
 1. Make sure you have Python installed.
-2. Clone the repository:
-3. Run the program:
-
+2. Clone the repository: git clone https://github.com/d2therob/todo-list.git
+3. python simpletodolist.py
 
 
 ## 💡 Example
